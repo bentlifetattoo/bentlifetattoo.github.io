@@ -1,0 +1,6 @@
+---
+layout: default
+modal-id: 8
+img: tattoo-8.png
+alt: ""
+---
