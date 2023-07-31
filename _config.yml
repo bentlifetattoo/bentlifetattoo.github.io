@@ -1,6 +1,6 @@
 # Site settings
 title: Ian Rice Tattoos
-email: your-email@domain.com
+email: bentlifetattoo@gmail.com
 url: https://ianricetattoos.com
 description: "Ian Rice Tattoos"
 keywords: "tattoo"
@@ -28,9 +28,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Thick As Thieves Tattoo
-  - line: 4610 E Colfax Ave
-  - line: Denver, CO 80220
+  - line: Urban Element
+  - line: 1445 S Broadway
+  - line: Denver, CO 80210
 
 # Credits content
 credits: '<a href="https://jeromelachaud.com/freelancer-theme">freelancer</a>'
