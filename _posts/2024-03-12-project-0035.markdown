@@ -1,0 +1,6 @@
+---
+layout: default
+modal-id: 0035
+img: 2024/tattoo-0035.jpg
+alt: ""
+---

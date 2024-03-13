@@ -1,0 +1,6 @@
+---
+layout: default
+modal-id: 0002
+img: 2024/tattoo-0002.jpg
+alt: ""
+---
