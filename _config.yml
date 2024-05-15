@@ -28,8 +28,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Phoenix Tattoo Company
-  - line: 1760 S Broadway Blvd
+#  - line: Phoenix Tattoo Company
+#  - line: 1760 S Broadway Blvd
   - line: Denver, CO 80210
 
 # Credits content
